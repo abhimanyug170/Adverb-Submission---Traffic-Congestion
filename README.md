@@ -4,7 +4,7 @@ Server - https://traffic-congestion.herokuapp.com/
 
 # Traffomatic
 
-Traffomatic aims to provide an easy and efficient solution to the ever-prevalent problem of increasing traffic. Through this application, it is possible to regulate and co-ordinate different traffic signals at crossroads. This automatoin provides the best combination of traffic signals at a user-selected location to facilitate least congestion among vehicles. 
+Traffomatic aims to provide an easy and efficient solution to the ever-prevalent problem of increasing traffic. Through this application, it is possible to regulate and co-ordinate different traffic signals at crossroads. This automaton provides the best combination of traffic signals at a user-selected location to facilitate least congestion among vehicles. 
 
 # Algorithm
 
