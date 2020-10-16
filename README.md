@@ -72,7 +72,7 @@ To run the react server:
 3. Start the react server.
 	```npm start```
 ## Screenshots
-
+![alt text](https://imgur.com/kwg4Wo7)
 # Server
 1. Get in the server directory.
 `cd Traffic-Congestion-api/server`
