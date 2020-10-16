@@ -1,0 +1,1 @@
+export const serverUrl = "https://traffic-congestion.herokuapp.com";

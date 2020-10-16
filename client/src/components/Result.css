@@ -1,0 +1,23 @@
+.label{
+    padding-top: 6vh;
+    font-family: 'Sansita Swashed', cursive;
+    font-size: 20px;
+}
+.header{
+    padding-top: 5vh;
+    margin-left : 70%;
+}
+@media only screen and (max-width: 1044px) {
+    .header{
+        margin-left : 20%;
+    }
+}
+
+@media only screen and (max-width: 767px) {
+    .label{
+        margin-left : 20px;
+    }
+    .header{
+        margin-left : 5%;
+    }
+  }
