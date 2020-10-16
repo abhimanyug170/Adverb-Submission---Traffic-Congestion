@@ -1,10 +1,10 @@
 # Link to deployed servers
-Client - [https://traffic-congestion-adverb.netlify.app/](https://traffic-congestion-adverb.netlify.app/)
+Client - [https://traffic-congestion-adverb.netlify.app/](https://traffic-congestion-adverb.netlify.app/)  
 Server - https://traffic-congestion.herokuapp.com/
 
 # Traffomatic
 
-Traffomatic aims to provide an easy and efficient solution to the ever-prevalent problem of increasing traffic. Through this application, it is possible to regulate and co-ordinate different traffic signals at crossroads. This automaton provides the best combination of traffic signals at a user-selected location to facilitate least congestion among vehicles. 
+Traffomatic aims to provide an easy and efficient solution to the ever-prevalent problem of increasing traffic. Through this application, it is possible to regulate and co-ordinate different traffic signals at crossroads. This automatoin provides the best combination of traffic signals at a user-selected location to facilitate least congestion among vehicles. 
 
 # Algorithm
 
@@ -61,8 +61,8 @@ app
 ```
 # Instructions to clone the app
 
-``` git clone https://github.com/Sourabhtripathi/Adverb-Submission---Traffic-Congestion.git ```
- ```cd Adverb-Submission---Traffic-Congestion```
+``` git clone https://github.com/Sourabhtripathi/Adverb-Submission---Traffic-Congestion.git ```  
+```cd Adverb-Submission---Traffic-Congestion```
 # Client
 To run the react server: 
 1. Get in the client directory.
@@ -79,10 +79,10 @@ To run the react server:
 3. Start the server.
 `flask run`
 
-**Generate Authentication Key for Distance Matrix API.**
-Refer to this link - <https://distancematrix.ai>
-**Generate MongoDB database URI.**
-Refer to this link - <https://www.mongodb.com/cloud/atlas>
+**Generate Authentication Key for Distance Matrix API.**  
+Refer to this link - <https://distancematrix.ai>  
+**Generate MongoDB database URI.**  
+Refer to this link - <https://www.mongodb.com/cloud/atlas>  
 **Create a .env file and add the mentioned details in it.**
 ```
 # specify flask app's python file
