@@ -71,8 +71,6 @@ To run the react server:
 	```npm install```
 3. Start the react server.
 	```npm start```
-## Screenshots
-![alt text](https://photos.app.goo.gl/RVMi3MCXKDagL9jS9)
 # Server
 1. Get in the server directory.
 `cd Traffic-Congestion-api/server`
